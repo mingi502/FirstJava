@@ -1,2 +1,0 @@
-# FirstJava
-First Java Project
